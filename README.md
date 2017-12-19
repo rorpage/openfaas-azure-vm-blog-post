@@ -1,0 +1,1 @@
+# openfaas-azure-vm-blog-post
